@@ -1,0 +1,16 @@
+D:\C# homework\Test5\Test5\obj\Debug\Test5.csproj.AssemblyReference.cache
+D:\C# homework\Test5\Test5\obj\Debug\Test5.Form1.resources
+D:\C# homework\Test5\Test5\obj\Debug\Test5.Form3.resources
+D:\C# homework\Test5\Test5\obj\Debug\Test5.Properties.Resources.resources
+D:\C# homework\Test5\Test5\obj\Debug\Test5.csproj.GenerateResource.cache
+D:\C# homework\Test5\Test5\obj\Debug\Test5.csproj.CoreCompileInputs.cache
+D:\C# homework\Test5\Test5\bin\Debug\Test5.exe.config
+D:\C# homework\Test5\Test5\bin\Debug\Test5.exe
+D:\C# homework\Test5\Test5\bin\Debug\Test5.pdb
+D:\C# homework\Test5\Test5\bin\Debug\EntityFramework.dll
+D:\C# homework\Test5\Test5\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# homework\Test5\Test5\bin\Debug\EntityFramework.xml
+D:\C# homework\Test5\Test5\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# homework\Test5\Test5\obj\Debug\Test5.csproj.CopyComplete
+D:\C# homework\Test5\Test5\obj\Debug\Test5.exe
+D:\C# homework\Test5\Test5\obj\Debug\Test5.pdb
